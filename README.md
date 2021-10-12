@@ -1,1 +1,3 @@
 # PhotometricCompiler
+
+Just compiles PhotometricData
